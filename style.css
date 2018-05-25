@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cajagrande1 {
+   width: 500px;
+   height: 500px;
+   background-color: red; 
+   position: static;
+   
+}
+
+#cajamedia1 {
+   width: 300px;
+   height: 300px;
+   background-color: violet; 
+   position: absolute;
+   margin: 1em 1em 1em 6em;
+   bottom: 500px;
+}
+
+#cajachica1 {
+    width: 150px;
+    height: 150px;
+    background-color: yellow; 
+    position: absolute;
+    margin: 1em 1em 1em 6em;
+    bottom: 650px;
+}
+
+
+#cajagrande2 {
+    width: 500px;
+    height: 500px;
+    background-color:blue; 
+    position: relative;
+    top: 50px;
+    
+ }
+ 
+ #cajamedia2 {
+    width: 250px;
+    height: 250px;
+    background-color: green; 
+    position: absolute;
+    margin: 1em 1em 1em 8em;
+    top: 655px;
+ }
+ 
+ #cajachica2 {
+     width: 125px;
+     height: 125px;
+     background-color:black; 
+     position: absolute;
+     margin: 1em 1em 1em 0em;
+     top: 534px;
+ }
+ 
